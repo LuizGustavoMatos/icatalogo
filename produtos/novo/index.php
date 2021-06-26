@@ -16,7 +16,7 @@
   <div class="content">
     <section class="produtos-container">
       <main>
-        <form class="form-produto">
+        <form class="form-produto" method="$_POST" action="../acoes.php">
           <h1>Cadastro de produto</h1>
           <div class="input-group span2">
             <label for="descricao">Descrição</label>
